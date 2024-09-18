@@ -56,7 +56,7 @@
             // 
             // buttonCalcular
             // 
-            buttonCalcular.BackColor = SystemColors.ActiveCaption;
+            buttonCalcular.BackColor = Color.Blue;
             buttonCalcular.Cursor = Cursors.Hand;
             buttonCalcular.Font = new Font("Verdana", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             buttonCalcular.Location = new Point(260, 270);
@@ -87,7 +87,7 @@
             // 
             // labelResultado
             // 
-            labelResultado.BackColor = Color.Linen;
+            labelResultado.BackColor = Color.PaleGoldenrod;
             labelResultado.Font = new Font("Verdana", 20.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             labelResultado.Location = new Point(110, 355);
             labelResultado.Name = "labelResultado";
