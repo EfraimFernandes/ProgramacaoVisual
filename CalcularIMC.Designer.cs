@@ -110,6 +110,7 @@
             Controls.Add(labelAltura);
             Name = "CalcularIMC";
             Text = "CalcularIMC";
+            Load += CalcularIMC_Load;
             ResumeLayout(false);
             PerformLayout();
         }

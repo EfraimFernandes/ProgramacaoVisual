@@ -58,5 +58,10 @@ namespace ProgramacaoVisual
                 MessageBox.Show($"Ocorreu um erro: {ex.Message}");
             }
         }
+
+        private void CalcularIMC_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
