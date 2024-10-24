@@ -18,7 +18,6 @@
         }
 
 
-        // Adiciona número ao display
         private void Button_Click(object sender, EventArgs e)
         {
             Button button = (Button)sender;
@@ -32,7 +31,6 @@
             }
         }
 
-        // Operadores (+, -, *, /)
         private void Operator_Click(object sender, EventArgs e)
         {
             Button button = (Button)sender;
@@ -41,7 +39,6 @@
             txtDisplay.Text = "";
         }
 
-        // Botão de igual
         private void btnEquals_Click(object sender, EventArgs e)
         {
             secondNum = Convert.ToDouble(txtDisplay.Text);
@@ -69,11 +66,10 @@
             }
         }
 
-        // Botão de limpar
         private void btnClear_Click(object sender, EventArgs e)
         {
             txtDisplay.Text = "0";
-            firstNum = 0; []
+            firstNum = 0;
             secondNum = 0;
             operation = "";
         }

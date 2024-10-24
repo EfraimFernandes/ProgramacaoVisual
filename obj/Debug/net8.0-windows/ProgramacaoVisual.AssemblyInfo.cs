@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgramacaoVisual")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f399d4f59b1fd25581899db32b01fc7b3107687")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83796c2c350546db6d9342f562e15ed45f91a4a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgramacaoVisual")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgramacaoVisual")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
